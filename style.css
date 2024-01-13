@@ -1,6 +1,10 @@
 * {
     margin: 0;
 }
+.welcome-text {
+    text-indent: 2em;
+}
+
 h1{
     padding: 10px;
     margin: 0;
@@ -8,6 +12,7 @@ h1{
     color: goldenrod;
     text-align: center;
 }
+
 footer{
     text-align: right;
 }
