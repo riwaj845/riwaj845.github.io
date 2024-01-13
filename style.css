@@ -1,17 +1,27 @@
 * {
     margin: 0;
+    color: goldenrod;
 }
+body {
+    background-color: rgb(151, 24, 24);
+}
+
 .welcome-text {
     text-indent: 2em;
 }
 
-h1{
+h2{
     padding: 10px;
     margin: 0;
-    background-color: rgb(228, 78, 78);
-    color: goldenrod;
     text-align: center;
 }
+
+.drive-link {
+    color: rgb(151, 24, 24);
+    background-color: goldenrod;
+    text-decoration: underline;
+}
+
 
 footer{
     text-align: right;
