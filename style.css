@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+h1{
+    padding: 10px;
+    margin: 0;
+    background-color: rgb(228, 78, 78);
+    color: goldenrod;
+    text-align: center;
+}
+footer{
+    text-align: right;
+}
